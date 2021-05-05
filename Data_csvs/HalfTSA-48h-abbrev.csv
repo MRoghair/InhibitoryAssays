@@ -1,0 +1,9 @@
+﻿Strain_ID,Chryseobacterium_SCH11,Pseudomonas_putida_KT2442,Streptomyces_RCH20P,Exiguobacterium_RDH25,Bacillus_SCH24,Cellulosimicrobium_BM1,Luteibacter_BM7,Ensifer_BM17
+Chryseobacterium_SCH11,-2,-3,-2,0,-1,-1,0,0
+Pseudomonas_putida_KT2442,1,-1,0,0,0,0,1,0
+Streptomyces_RCH20P,-1,-1,0,0,-2,0,0,0
+Exiguobacterium_RDH25,-2,-2,-1,0,-3,0,0,0
+Bacillus_SCH24,-1,-2,-4,1,1,0,1,-1
+Cellulosimicrobium_BM1,-1,2,-3,0,-3,0,0,0
+Luteibacter_BM7,0,-5,0,0,-1,0,0,0
+Ensifer_BM17,0,-3,0,0,0,0,0,0
