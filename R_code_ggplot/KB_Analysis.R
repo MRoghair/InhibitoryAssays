@@ -1,28 +1,35 @@
 
-setwd("~/Desktop/InhibitoryAssayGraphing")
+setwd("~/Desktop/InhibitoryAssays")
 library(tidyverse)
 
 
 #initially tried out working with the raw data. Range of data was too large 
 # (outliers skew the distribution of color)
-KB <- read.csv("V8_KB_forAnalysis.csv", header = TRUE)
-KB_pivot <- pivot_longer(KB, c(2:37), values_drop_na = TRUE)
-write_csv(KB_pivot, "KB_Pivot.csv")
-KB_pivot$Lawn <- as.factor(KB_pivot$Strain.ID)
+KB <- read.csv("Data_csvs/KB_forAnalysis-all_names.csv", header = TRUE)
+KB_pivot <- pivot_longer(KB, c(2:36), values_drop_na = FALSE)
+KB_pivot$Lawn <- as.factor(KB_pivot$Strain_ID)
 KB_pivot$Spot <- as.factor(KB_pivot$name)
 KB_pivot$Lawn <- as.character(KB_pivot$value)
 
 
 
-
-#Instead, decided to reformat so all values >10 looked the same and 
-# all values <10 looked the same
-KB2 <- read.csv("V8_KB_forAnalysis-2-rescale.csv", header = TRUE)
-KB2_pivot <- pivot_longer(KB2, c(2:37), values_drop_na = FALSE)
-KB2_pivot$Lawn <- as.factor(KB2_pivot$Strain.ID)
+KB2abbrev <- read.csv("Data_csvs/KB_forAnalysis-all_names-noPAO1Pf5.csv", header = TRUE)
+KB2_pivot <- pivot_longer(KB2abbrev, c(2:34), values_drop_na = FALSE)
+KB2_pivot$Lawn <- as.factor(KB2_pivot$Strain_ID)
 KB2_pivot$Spot <- as.factor(KB2_pivot$name)
-KB2_pivot$value <- as.numeric(KB2_pivot$value)
+KB_2 <- rep("KB", 1089)
+KB2_pivot$Media <- KB_2
 
+
+KBFe <- read.csv("Data_csvs/KBandKBFe_names.csv", header = TRUE)
+KBFe_pivot <- pivot_longer(KBFe, c(2:6), values_drop_na = FALSE)
+KBFe_pivot$Lawn <- as.factor(KBFe_pivot$Strain_ID)
+KBFe_pivot$Spot <- as.factor(KBFe_pivot$name)
+KB_Fe <- rep("KB + FeCl3", 165)
+KBFe_pivot$Media <- KB_Fe
+
+
+KB_Merged <- rbind(KB2_pivot, KBFe_pivot)
 
 
 #Make a list to order the strains by Phyla
@@ -36,13 +43,74 @@ strain_order <- c('KT2442','RDP22','RDP27','E5','RPE1_RP5', 'RPE1','PAO1','Pf5',
                   'BM16','R1','RDH1','RCH20P', 'BM1','BM4','BM13','SCH4','RDH6', 
                   'KT2442.Fe','RDP22.Fe','RDP27.Fe','E5.Fe','RPE1.Fe','RP5.Fe', 'PAO1.Fe','PF5.Fe')
 
+strain_order_names <- c('Pseudomonas_putida_KT2442', 'Pseudomonas_E5', 'Pseudomonas_RPE1',	'Pseudomonas_RP5',
+                        'Pseudomonas_RDP22', 'Pseudomonas_RDP27',	
+                        'Luteibacter_BM7',	'Lysobacter_BM12',	'Stenotrophomonas_BM25',
+                        'Dyella_R23', 'Rhodanobacteraceae_S20', 'Enterobacter_RPA1',
+                        'Variovax_RPC5', 'Burkholderia_BM21', 'Burkholderia_RCH25', 'Massilia_Z16', 'Massilia_MnBlack',
+                        'Massilia_sp', 'Massilia_SH9',
+                        'Ensifer_BM17', 'Ensifer_E15', 'Ensifer_BM23', 'Agrobacterium_E4',
+                        'Sphingobium_Z2', 'Novosphingobium_RCH3', 'Methylobacterium_RPE3',
+                        'Chryseobacterium_SCH11', 'Dyadobacter_BM9', 'Hymenobacter_RP5H',
+                        'Exiguobacterium_RDH20',	'Exiguobacterium_RDH25',	'Bacillus_SCH24', 
+                        'Paenibacillus_E12','Paenibacillus_SH19',
+                        'Streptomyces_RDH1',	'Streptomyces_RCH20P',	'Streptomyces_R1', 'Streptomyces_BM16',
+                        'Cellulosimicrobium_BM1',	'Nocardioides_BM13', 'Micrococcus_SCH4',
+                        'Microbacterium_BM4', 'Arthrobacter_RDH6',
+                        'Pseudomonas_PAO1', 'Pseudomonas_Pf5')
+
 strain_order_Ps <- c('KT2442','RDP22','RDP27','E5','RPE1_RP5', 'RPE1',
                   'KT2442.Fe','RDP22.Fe','RDP27.Fe','E5.Fe','RPE1.Fe',
                   'KT2442.Diff','RDP22.Diff','RDP27.Diff','E5.Diff', 'RPE1.Diff')
 
+
+ggplot(data = KB_pivot, aes(x=factor(Spot, level = strain_order_names),
+                             y=factor(Lawn, level = strain_order_names), fill=value) ) + 
+geom_tile()  + xlab('Spot, AKA "Producer"') + ylab('Lawn, AKA "Reciever"') +
+  ggtitle("Interactions on KB") + 
+  scale_fill_gradient2(low = "maroon", high = "chartreuse4", mid = "whitesmoke", 
+                       midpoint = 0, space = "Lab",
+                       na.value = "grey70", limit = c(-10,10)) +
+  labs(fill = "") + 
+  theme(axis.text.x = element_text(size=9, angle = 45, vjust = 1, hjust = 1, face="italic"),
+        axis.text.y=element_text(face="italic", size=9),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.title=element_text(size=12),
+        plot.background = element_rect(fill="white"),
+        strip.text = element_text(face="bold", size=12)) +
+  scale_x_discrete(expand = c(0, 0)) + scale_y_discrete(expand = c(0, 0))
+
+
+ggplot(data = KB_Merged, aes(x=factor(Spot, level = strain_order_names),
+                             y=factor(Lawn, level = strain_order_names), fill=value) ) + 
+  facet_grid(. ~ Media, space = "free", scales = "free") +
+  geom_tile()  + xlab('Spot, AKA "Producer"') + ylab('Lawn, AKA "Reciever"') +
+  ggtitle("Interactions on KB and KB+Fe") + 
+  scale_fill_gradient2(low = "maroon", high = "chartreuse4", mid = "whitesmoke", 
+                       midpoint = 0, space = "Lab",
+                       na.value = "grey70", limit = c(-10,10)) +
+  labs(fill = "") + 
+  theme(axis.text.x = element_text(size=9, angle = 45, vjust = 1, hjust = 1, face="italic"),
+        axis.text.y=element_text(face="italic", size=9),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.title=element_text(size=12),
+        plot.background = element_rect(fill="white"),
+        strip.text = element_text(face="bold", size=12)) +
+  scale_x_discrete(expand = c(0, 0)) + scale_y_discrete(expand = c(0, 0))
+
+
+
+
+
+
+
+
+
+
+
 # This plot looks great! Heatmap of inhibition
 # Key: green (positive values) = stimulation, red (negative values = inhibition
-ggplot(data = KB2_pivot, aes(x=factor(Spot, level = strain_order),
+ggplot(data = KB_pivot, aes(x=factor(Spot, level = strain_order),
                              y=factor(Lawn, level = strain_order), fill=value) ) + 
   geom_tile()  + xlab('Spot, AKA "Producer"') + ylab('Lawn, AKA "Reciever"') +
   ggtitle("Interactions on King's B") + 
