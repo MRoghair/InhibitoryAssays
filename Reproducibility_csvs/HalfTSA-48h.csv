@@ -1,0 +1,17 @@
+﻿Strain_ID,Dyadobacter_BM9,Chryseobacterium_SCH11,Pseudomonas_putida_KT2442,Burkholderia_RCH25,Variovax_RPC5,Methylobacterium_RPE3,Streptomyces_RCH20P,Massilia_sp,Exiguobacterium_RDH25,Bacillus_SCH24,Paenibacillus_E12,Sphingobium_Z2,Cellulosimicrobium_BM1,Microbacterium_BM4,Luteibacter_BM7,Ensifer_BM17
+Dyadobacter_BM9,4,-2,-2,-1,2,0,-5,0,-3,-2,-1,1,0,0,1,0
+Chryseobacterium_SCH11,-3,-2,-3,-1,0,0,-2,0,0,-1,1,0,-1,0,0,0
+Pseudomonas_putida_KT2442,0,1,-1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Burkholderia_RCH25,1,1,-3,-2,0,0,-2,0,0,0,1,0,0,0,1,0
+Variovax_RPC5,0,1,-4,-7,0,0,-4,2,0,-1,-2,0,0,0,2,0
+Methylobacterium_RPE3,-5,-1,-3,-6,0,0,-1,-1,0,-2,-1,0,0,0,0,0
+Streptomyces_RCH20P,-3,-1,-1,-5,0,0,0,0,0,-2,0,0,0,0,0,0
+Exiguobacterium_RDH25,-3,-2,-2,0,0,0,-1,0,0,-3,0,0,0,0,0,0
+Bacillus_SCH24,-1,-1,-2,-2,0,0,-4,0,1,1,2,0,0,0,1,-1
+Paenibacillus_E12,-1,-2,0,-2,0,0,-3,0,0,-1,0,0,0,0,1,0
+Sphingobium_Z2,-6,0,-5,-7,-2,0,-2,0,0,-2,-2,0,0,0,0,0
+Cellulosimicrobium_BM1,-2,-1,2,-5,1,0,-3,1,0,-3,-1,0,0,0,0,0
+Microbacterium_BM4,-1,0,-2,0,0,0,-1,0,0,0,0,0,0,0,0,0
+Luteibacter_BM7,-3,0,-5,-5,-2,0,0,0,0,-1,-2,0,0,0,0,0
+Ensifer_BM17,0,0,-3,-6,0,0,0,0,0,0,0,0,0,0,0,0
+Massilia_sp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

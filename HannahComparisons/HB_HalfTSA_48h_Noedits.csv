@@ -1,0 +1,16 @@
+﻿Strain_ID,Pseudomonas_putida_KT2442,Luteibacter_BM7,Variovax_RPC5,Burkholderia_RCH25,Ensifer_sp,Methylobacterium_RPE3,Sphingobium_Z2,Exiguobacterium_RDH25,Bacillus_SCH24,Paenibacillus_E12,Cellulosimicrobium_BM1,Microbacterium_BM4,Streptomyces_RCH20P,Dyadobacter_BM9,Chryseobacterium_SCH11
+Pseudomonas_putida_KT2442,0,0,1,2 (LD),0,0,0,0,1spread,0,0,0,1inc,0,1inc
+Luteibacter_BM7,0,3spread,0,1,0,0,0,0,0,0,0,0,0,0,2spread
+Variovax_RPC5,2 (LD),0,1inc,5,1,0,0,1spread,"1spread, 4",1,1 (LD),0,0,1spread,1spread
+Burkholderia_RCH25,2 (LD),0,0,0,0,0,0,0,"1spread, 3inc",1,0,0,0,0,0
+Ensifer_sp,2 (LD),1inc,"2 inc, 2swarm?",4,1spread,0,0,0,5spread,1 (LD),0,0,2 (LD),5inc,"1spread, 1 (LD)"
+Methylobacterium_RPE3,"2spread, 1 (LD)",1inc,0,"1spread, 4",2spread,0,1spread,0,"3 (LD), 5spread",1,1inc,0,5,0,3spread
+Sphingobium_Z2,4,0,0,4,"2spread, 1 (LD)",0,0,0,17spread,"1, 1spread",0,0,"4 (LD), 1spread",0,1inc
+Exiguobacterium_RDH25,2 (LD),0,0,"1, 2Y",0,0,0,1 (LD),"2,1spread",0,0,0,2,0,1 (LD)
+Bacillus_SCH24,1spread,0,0,2,2 (LD),PG,0,2inc,2spread,1,0,PG,8,1 (LD),1
+Paenibacillus_E12,1spread,0,1spread,1,0,0,0,0,"1, 1spread",0,0,0,5,0,1
+Cellulosimicrobium_BM1,1inc,0,0,4,2spread,0,0,1spread,"3 (LD), 1spread","1spread, 2",1 (LD),1 (LD),2,0,1
+Microbacterium_BM4,"3spread, 7",0,1spread,9,3spread,0,0,1spread,"2spread, 6","1spread, 4",0,0,10,1 (LD),1 (LD)
+Streptomyces_RCH20P,1 (LD),1inc,"1, PG",5,"1spread, 1 (LD)",0,0,0,"2, 1spread",0,0,1inc,0,0,1 (LD)
+Dyadobacter_BM9,2spread,0,1spread,6,2spread,0,3inc,0,3spread,1,0,0,"9, 2spread",0,1spread
+Chryseobacterium_SCH11,2,0,0,1,0,0,0,0,"1, 1spread",1,0,0,1 (LD),0,0

@@ -12,13 +12,23 @@ R2A_48h_pivot <- pivot_longer(R2A_48h, c(2:33), values_drop_na = FALSE)
 R2A_48h_pivot$Lawn <- as.factor(R2A_48h_pivot$Strain_ID)
 R2A_48h_pivot$Spot <- as.factor(R2A_48h_pivot$name)
 R2A_48h_pivot$value <- as.numeric(R2A_48h_pivot$value)
-R2A48h <- rep("R2A-48h", 256)
+R2A48h <- rep("R2A-48h", 1024)
 R2A_48h_pivot$MediaTime <- R2A48h
-R2A <- rep("R2A", 256)
+R2A <- rep("R2A", 1024)
 R2A_48h_pivot$Media <- R2A
-Time48h <- rep("48h", 256)
+Time48h <- rep("48h", 1024)
 R2A_48h_pivot$Time <- Time48h
 
+
+
+# R2A data 48h - make in long format and export for Cytoscape!
+R2A_48h_Cyto <- read.csv("Data_csvs/R2A_Rep1_48h_forCytoscape_TEST2.csv", header = TRUE, nrows = 32)
+R2A_48h_Cyto$Strain_ID <- as.character(R2A_48h_Cyto$Strain_ID)
+R2A_48h_Cyto_pivot <- pivot_longer(R2A_48h_Cyto, c(2:33), values_drop_na = FALSE)
+R2A_48h_Cyto_pivot$Target <- as.factor(R2A_48h_Cyto_pivot$Strain_ID)
+R2A_48h_Cyto_pivot$Source <- as.factor(R2A_48h_Cyto_pivot$name)
+R2A_48h_Cyto_pivot$Interaction <- as.numeric(R2A_48h_Cyto_pivot$value)
+write_csv(R2A_48h_Cyto_pivot, "R2A_48h_Cyto_pivot.csv")
 
 
 

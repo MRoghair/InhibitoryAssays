@@ -244,7 +244,7 @@ KBFe48_pivot$Spot <- as.factor(KBFe48_pivot$name)
 KBFe48_pivot$value <- as.numeric(KBFe48_pivot$value)
 KBFe48h <- rep("KBFe-48h", 80)
 KBFe48_pivot$MediaTime <- KBFe48h
-KBFe <- rep("KB-Fe", 80)
+KBFe <- rep("KB+Fe", 80)
 KBFe48_pivot$Media <- KBFe
 KBFe48_pivot$BaseMedia <- KB
 Time48h_2 <- rep("48h", 80)
@@ -270,6 +270,10 @@ Fe_48h <- rbind(HalfTSA48_pivot, HalfTSA48Fe_pivot,
                    TenthTSA48_pivot, TenthTSAFe48_pivot,
                    KB48_pivot, KBFe48_pivot)
 
+Fe_48h_noKB <- rbind(HalfTSA48_pivot, HalfTSA48Fe_pivot,
+                R2A48_pivot, R2AFe48_pivot,
+                TenthTSA48_pivot, TenthTSAFe48_pivot)
+
 all_Fe49and96_merge <- rbind(HalfTSA48_pivot, HalfTSA96_pivot, HalfTSA48Fe_pivot, HalfTSAFe96_pivot,
                    R2A48_pivot, R2AFe48_pivot, R2AFe96_pivot, R2A96_pivot,
                    TenthTSA48_pivot, TenthTSA96_pivot, TenthTSAFe48_pivot, TenthTSA96Fe_pivot)
@@ -285,7 +289,7 @@ Merged_Fe_supp <- rbind(HalfTSA48_pivot, HalfTSA96_pivot,
 
 #Make a list to order the strains by Phyla
 #G-Proteobacteria, B-Proteobacteria, A-Proteobacteria, Firmicutes, Actinos, Bacteroidetes
-strain_order <- c('Pseudomonas_putida_KT2442', 'Pseudomonas_E5', 'Pseudomonas_RPE1',	'Pseudomonas_RP5'
+strain_order <- c('Pseudomonas_putida_KT2442', 'Pseudomonas_E5', 'Pseudomonas_RPE1',	'Pseudomonas_RP5',
                   'Pseudomonas_RDP22', 'Pseudomonas_RDP27',	
                   'Luteibacter_BM7',	'Lysobacter_BM12',	'Stenotrophomonas_BM25',
                   'Variovax_RPC5', 'Burkholderia_RCH25', 'Massilia_Z16', 'Massilia_MnBlack',
@@ -473,6 +477,7 @@ all_regular_merge <- rbind(HalfTSA48_pivot,
                      LA48_pivot)
 
 
+# THIS ONE IS GOOD FOR LAB MEETING PRESENTATION
 ggplot(data = all_merge, aes(x=factor(Spot, level = strain_order),
                             y=factor(Lawn, level =strain_order), fill=value) ) + 
   facet_grid(Time ~ factor(BaseMedia, level = media_order) + FeSupp, 
@@ -488,14 +493,16 @@ ggplot(data = all_merge, aes(x=factor(Spot, level = strain_order),
         plot.title = element_text(hjust = 0.5, size=16),
         axis.title=element_text(size=12),
         plot.background = element_rect(fill="white"),
-        strip.text = element_text(face="bold", size=12)) +
+        strip.text = element_text(face="bold", size=12),
+        panel.grid = element_blank(),
+        panel.background = element_rect(fill="grey90")) +
   scale_x_discrete(expand = c(0, 0)) + scale_y_discrete(expand = c(0, 0))
 
 
 # Facet by organism, with media on the x axis
 media_order <- rbind('KB','LA', 'HalfTSA', 'R2A', 'TenthTSA')
 
-ggplot(data = Fe_48h, aes(x=factor(BaseMedia, level = media_order),
+ggplot(data = Fe_48h_noKB, aes(x=factor(BaseMedia, level = media_order),
                             y=factor(Lawn, level =strain_order), fill=value) ) + 
   facet_grid(FeSupp ~ factor(Spot, level = strain_order), scales = "free", space = "free") +
   geom_tile()  + xlab('Spot, AKA "Producer"') + ylab('Lawn, AKA "Reciever"') +
@@ -514,7 +521,7 @@ ggplot(data = Fe_48h, aes(x=factor(BaseMedia, level = media_order),
   scale_x_discrete(expand = c(0, 0)) + scale_y_discrete(expand = c(0, 0))
 
 
-allmedia_order = c("HalfTSA", "R2A", "TenthTSA", "HalfTSA+Fe", "R2A+Fe", "TenthTSA+Fe")
+allmedia_order = c("KB", "KB+Fe", "HalfTSA", "HalfTSA+Fe", "R2A",  "R2A+Fe", "TenthTSA", "TenthTSA+Fe")
 
 ggplot(data = all_Fe49and96_merge, aes(x=factor(Media, level=allmedia_order),
                                y=factor(Lawn, level =strain_order), fill=value) ) + 

@@ -1,0 +1,17 @@
+﻿Sender,Receiver,Interaction
+SpA,SpA,A
+SpA,SpB,B
+SpA,SpC,C
+SpA,SpD,B
+SpB,SpA,A
+SpB,SpB,C
+SpB,SpC,C
+SpB,SpD,B
+SpC,SpA,C
+SpC,SpB,C
+SpC,SpC,B
+SpC,SpD,A
+SpD,SpA,C
+SpD,SpB,B
+SpD,SpC,C
+SpD,SpD,A

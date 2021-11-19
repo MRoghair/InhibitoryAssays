@@ -3,6 +3,38 @@ setwd("~/Desktop/InhibitoryAssays")
 library(tidyverse)
 
 
+
+# KB data 48h - make in long format and export for Cytoscape!
+KB_48h_Cyto <- read.csv("Data_csvs/KB_forAnalysis-all.csv", header = TRUE)
+KB_48h_Cyto$Strain_ID <- as.character(KB_48h_Cyto$Strain_ID)
+KB_48h_Cyto_pivot <- pivot_longer(KB_48h_Cyto, c(2:37), values_drop_na = TRUE)
+KB_48h_Cyto_pivot$Target <- as.factor(KB_48h_Cyto_pivot$Strain_ID)
+KB_48h_Cyto_pivot$Source <- as.factor(KB_48h_Cyto_pivot$name)
+KB_48h_Cyto_pivot$Interaction <- as.numeric(KB_48h_Cyto_pivot$value)
+write_csv(KB_48h_Cyto_pivot, "KB_48h_Cyto_pivot.csv")
+KB_2 <- rep("KB", 1257)
+KB_48h_Cyto_pivot$Media <- KB_2
+
+# KBFe data 48h - make in long format and export for Cytoscape!
+KBFe_48h_Cyto <- read.csv("Data_csvs/KBFe_forAnalysis.csv", header = TRUE)
+KBFe_48h_Cyto$Strain_ID <- as.character(KBFe_48h_Cyto$Strain_ID)
+KBFe_48h_Cyto_pivot <- pivot_longer(KBFe_48h_Cyto, c(2:8), values_drop_na = TRUE)
+KBFe_48h_Cyto_pivot$Target <- as.factor(KBFe_48h_Cyto_pivot$Strain_ID)
+KBFe_48h_Cyto_pivot$Source <- as.factor(KBFe_48h_Cyto_pivot$name)
+KBFe_48h_Cyto_pivot$Interaction <- as.numeric(KBFe_48h_Cyto_pivot$value)
+KB_Fe <- rep("KB + FeCl3", 235)
+KBFe_48h_Cyto_pivot$Media <- KB_Fe
+write_csv(KBFe_48h_Cyto_pivot, "KBFe_48h_Cyto_pivot.csv")
+
+
+KB_and_KBFE_forCyto <- rbind(KB_48h_Cyto_pivot, KBFe_48h_Cyto_pivot)
+KB_and_KBFE_forCyto$SourceMedia <- paste(KB_and_KBFE_forCyto$Source, KB_and_KBFE_forCyto$Media)
+KB_and_KBFE_forCyto$TargetMedia <- paste(KB_and_KBFE_forCyto$Target, KB_and_KBFE_forCyto$Media)
+write_csv(KB_and_KBFE_forCyto, "KB_and_KBFE_forCyto.csv")
+
+
+
+
 #initially tried out working with the raw data. Range of data was too large 
 # (outliers skew the distribution of color)
 KB <- read.csv("Data_csvs/KB_forAnalysis-all_names.csv", header = TRUE)

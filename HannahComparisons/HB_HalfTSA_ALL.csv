@@ -1,0 +1,901 @@
+,Strain_ID,name,value,Spot,MediaTime,Lawn,Media,Fe,Time,Dataset
+579,Bacillus_SCH24,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+804,Bacillus_SCH24,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+129,Bacillus_SCH24,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+354,Bacillus_SCH24,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+574,Bacillus_SCH24,Burkholderia_RCH25,1,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+799,Bacillus_SCH24,Burkholderia_RCH25,1,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+124,Bacillus_SCH24,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+349,Bacillus_SCH24,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+581,Bacillus_SCH24,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+806,Bacillus_SCH24,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+131,Bacillus_SCH24,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+356,Bacillus_SCH24,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+585,Bacillus_SCH24,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+810,Bacillus_SCH24,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+135,Bacillus_SCH24,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+360,Bacillus_SCH24,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+584,Bacillus_SCH24,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+809,Bacillus_SCH24,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+134,Bacillus_SCH24,Dyadobacter_BM9,-1,Dyadobacter_BM9,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+359,Bacillus_SCH24,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+575,Bacillus_SCH24,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+800,Bacillus_SCH24,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+125,Bacillus_SCH24,Ensifer_sp,-2,Ensifer_sp,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+350,Bacillus_SCH24,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+578,Bacillus_SCH24,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+803,Bacillus_SCH24,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+128,Bacillus_SCH24,Exiguobacterium_RDH25,2,Exiguobacterium_RDH25,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+353,Bacillus_SCH24,Exiguobacterium_RDH25,2,Exiguobacterium_RDH25,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+572,Bacillus_SCH24,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+797,Bacillus_SCH24,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+122,Bacillus_SCH24,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+347,Bacillus_SCH24,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+576,Bacillus_SCH24,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+801,Bacillus_SCH24,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+126,Bacillus_SCH24,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+351,Bacillus_SCH24,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+582,Bacillus_SCH24,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+807,Bacillus_SCH24,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+132,Bacillus_SCH24,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+357,Bacillus_SCH24,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+580,Bacillus_SCH24,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+805,Bacillus_SCH24,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+130,Bacillus_SCH24,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+355,Bacillus_SCH24,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+571,Bacillus_SCH24,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+796,Bacillus_SCH24,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+121,Bacillus_SCH24,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+346,Bacillus_SCH24,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+577,Bacillus_SCH24,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+802,Bacillus_SCH24,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+127,Bacillus_SCH24,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+352,Bacillus_SCH24,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+583,Bacillus_SCH24,Streptomyces_RCH20P,-4,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+808,Bacillus_SCH24,Streptomyces_RCH20P,-4,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+133,Bacillus_SCH24,Streptomyces_RCH20P,-8,Streptomyces_RCH20P,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+358,Bacillus_SCH24,Streptomyces_RCH20P,-6,Streptomyces_RCH20P,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+573,Bacillus_SCH24,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+798,Bacillus_SCH24,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+123,Bacillus_SCH24,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Bacillus_SCH24,1/2 TSA,#NAME?,48h,Hannah
+348,Bacillus_SCH24,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Bacillus_SCH24,1/2 TSA,#NAME?,96h,Hannah
+504,Burkholderia_RCH25,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+729,Burkholderia_RCH25,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+54,Burkholderia_RCH25,Bacillus_SCH24,3,Bacillus_SCH24,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+279,Burkholderia_RCH25,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+499,Burkholderia_RCH25,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+724,Burkholderia_RCH25,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+49,Burkholderia_RCH25,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+274,Burkholderia_RCH25,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+506,Burkholderia_RCH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+731,Burkholderia_RCH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+56,Burkholderia_RCH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+281,Burkholderia_RCH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+510,Burkholderia_RCH25,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+735,Burkholderia_RCH25,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+60,Burkholderia_RCH25,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+285,Burkholderia_RCH25,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+509,Burkholderia_RCH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+734,Burkholderia_RCH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+59,Burkholderia_RCH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+284,Burkholderia_RCH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+500,Burkholderia_RCH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+725,Burkholderia_RCH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+50,Burkholderia_RCH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+275,Burkholderia_RCH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+503,Burkholderia_RCH25,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+728,Burkholderia_RCH25,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+53,Burkholderia_RCH25,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+278,Burkholderia_RCH25,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+497,Burkholderia_RCH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+722,Burkholderia_RCH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+47,Burkholderia_RCH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+272,Burkholderia_RCH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+501,Burkholderia_RCH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+726,Burkholderia_RCH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+51,Burkholderia_RCH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+276,Burkholderia_RCH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+507,Burkholderia_RCH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+732,Burkholderia_RCH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+57,Burkholderia_RCH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+282,Burkholderia_RCH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+505,Burkholderia_RCH25,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+730,Burkholderia_RCH25,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+55,Burkholderia_RCH25,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+280,Burkholderia_RCH25,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+496,Burkholderia_RCH25,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+721,Burkholderia_RCH25,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+46,Burkholderia_RCH25,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+271,Burkholderia_RCH25,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+502,Burkholderia_RCH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+727,Burkholderia_RCH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+52,Burkholderia_RCH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+277,Burkholderia_RCH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+508,Burkholderia_RCH25,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+733,Burkholderia_RCH25,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+58,Burkholderia_RCH25,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+283,Burkholderia_RCH25,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+498,Burkholderia_RCH25,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA + Fe, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+723,Burkholderia_RCH25,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA + Fe, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+48,Burkholderia_RCH25,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Burkholderia_RCH25,1/2 TSA,#NAME?,48h,Hannah
+273,Burkholderia_RCH25,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Burkholderia_RCH25,1/2 TSA,#NAME?,96h,Hannah
+609,Cellulosimicrobium_BM1,Bacillus_SCH24,-4,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+834,Cellulosimicrobium_BM1,Bacillus_SCH24,-4,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+159,Cellulosimicrobium_BM1,Bacillus_SCH24,-3,Bacillus_SCH24,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+384,Cellulosimicrobium_BM1,Bacillus_SCH24,-3,Bacillus_SCH24,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+604,Cellulosimicrobium_BM1,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+829,Cellulosimicrobium_BM1,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+154,Cellulosimicrobium_BM1,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+379,Cellulosimicrobium_BM1,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+611,Cellulosimicrobium_BM1,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+836,Cellulosimicrobium_BM1,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+161,Cellulosimicrobium_BM1,Cellulosimicrobium_BM1,-1,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+386,Cellulosimicrobium_BM1,Cellulosimicrobium_BM1,-1,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+615,Cellulosimicrobium_BM1,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+840,Cellulosimicrobium_BM1,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+165,Cellulosimicrobium_BM1,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+390,Cellulosimicrobium_BM1,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+614,Cellulosimicrobium_BM1,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+839,Cellulosimicrobium_BM1,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+164,Cellulosimicrobium_BM1,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+389,Cellulosimicrobium_BM1,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+605,Cellulosimicrobium_BM1,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+830,Cellulosimicrobium_BM1,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+155,Cellulosimicrobium_BM1,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+380,Cellulosimicrobium_BM1,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+608,Cellulosimicrobium_BM1,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+833,Cellulosimicrobium_BM1,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+158,Cellulosimicrobium_BM1,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+383,Cellulosimicrobium_BM1,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+602,Cellulosimicrobium_BM1,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+827,Cellulosimicrobium_BM1,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+152,Cellulosimicrobium_BM1,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+377,Cellulosimicrobium_BM1,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+606,Cellulosimicrobium_BM1,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+831,Cellulosimicrobium_BM1,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+156,Cellulosimicrobium_BM1,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+381,Cellulosimicrobium_BM1,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+612,Cellulosimicrobium_BM1,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+837,Cellulosimicrobium_BM1,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+162,Cellulosimicrobium_BM1,Microbacterium_BM4,-1,Microbacterium_BM4,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+387,Cellulosimicrobium_BM1,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+610,Cellulosimicrobium_BM1,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+835,Cellulosimicrobium_BM1,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+160,Cellulosimicrobium_BM1,Paenibacillus_E12,-2,Paenibacillus_E12,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+385,Cellulosimicrobium_BM1,Paenibacillus_E12,-2,Paenibacillus_E12,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+601,Cellulosimicrobium_BM1,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+826,Cellulosimicrobium_BM1,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+151,Cellulosimicrobium_BM1,Pseudomonas_putida_KT2442,1,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+376,Cellulosimicrobium_BM1,Pseudomonas_putida_KT2442,1,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+607,Cellulosimicrobium_BM1,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+832,Cellulosimicrobium_BM1,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+157,Cellulosimicrobium_BM1,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+382,Cellulosimicrobium_BM1,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+613,Cellulosimicrobium_BM1,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+838,Cellulosimicrobium_BM1,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+163,Cellulosimicrobium_BM1,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+388,Cellulosimicrobium_BM1,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+603,Cellulosimicrobium_BM1,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+828,Cellulosimicrobium_BM1,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+153,Cellulosimicrobium_BM1,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,48h,Hannah
+378,Cellulosimicrobium_BM1,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Cellulosimicrobium_BM1,1/2 TSA,#NAME?,96h,Hannah
+669,Chryseobacterium_SCH11,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+894,Chryseobacterium_SCH11,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+219,Chryseobacterium_SCH11,Bacillus_SCH24,-1,Bacillus_SCH24,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+444,Chryseobacterium_SCH11,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+664,Chryseobacterium_SCH11,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+889,Chryseobacterium_SCH11,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+214,Chryseobacterium_SCH11,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+439,Chryseobacterium_SCH11,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+671,Chryseobacterium_SCH11,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+896,Chryseobacterium_SCH11,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+221,Chryseobacterium_SCH11,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+446,Chryseobacterium_SCH11,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+675,Chryseobacterium_SCH11,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+900,Chryseobacterium_SCH11,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+225,Chryseobacterium_SCH11,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+450,Chryseobacterium_SCH11,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+674,Chryseobacterium_SCH11,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+899,Chryseobacterium_SCH11,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+224,Chryseobacterium_SCH11,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+449,Chryseobacterium_SCH11,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+665,Chryseobacterium_SCH11,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+890,Chryseobacterium_SCH11,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+215,Chryseobacterium_SCH11,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+440,Chryseobacterium_SCH11,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+668,Chryseobacterium_SCH11,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+893,Chryseobacterium_SCH11,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+218,Chryseobacterium_SCH11,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+443,Chryseobacterium_SCH11,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+662,Chryseobacterium_SCH11,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+887,Chryseobacterium_SCH11,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+212,Chryseobacterium_SCH11,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+437,Chryseobacterium_SCH11,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+666,Chryseobacterium_SCH11,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+891,Chryseobacterium_SCH11,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+216,Chryseobacterium_SCH11,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+441,Chryseobacterium_SCH11,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+672,Chryseobacterium_SCH11,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+897,Chryseobacterium_SCH11,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+222,Chryseobacterium_SCH11,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+447,Chryseobacterium_SCH11,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+670,Chryseobacterium_SCH11,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+895,Chryseobacterium_SCH11,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+220,Chryseobacterium_SCH11,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+445,Chryseobacterium_SCH11,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+661,Chryseobacterium_SCH11,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+886,Chryseobacterium_SCH11,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+211,Chryseobacterium_SCH11,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+436,Chryseobacterium_SCH11,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+667,Chryseobacterium_SCH11,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+892,Chryseobacterium_SCH11,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+217,Chryseobacterium_SCH11,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+442,Chryseobacterium_SCH11,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+673,Chryseobacterium_SCH11,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+898,Chryseobacterium_SCH11,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+223,Chryseobacterium_SCH11,Streptomyces_RCH20P,-1,Streptomyces_RCH20P,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+448,Chryseobacterium_SCH11,Streptomyces_RCH20P,-1,Streptomyces_RCH20P,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+663,Chryseobacterium_SCH11,Variovax_RPC5,NA,Variovax_RPC5,"1/2 TSA + Fe, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+888,Chryseobacterium_SCH11,Variovax_RPC5,NA,Variovax_RPC5,"1/2 TSA + Fe, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+213,Chryseobacterium_SCH11,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,48h,Hannah
+438,Chryseobacterium_SCH11,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Chryseobacterium_SCH11,1/2 TSA,#NAME?,96h,Hannah
+654,Dyadobacter_BM9,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+879,Dyadobacter_BM9,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+204,Dyadobacter_BM9,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+429,Dyadobacter_BM9,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+649,Dyadobacter_BM9,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+874,Dyadobacter_BM9,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+199,Dyadobacter_BM9,Burkholderia_RCH25,-6,Burkholderia_RCH25,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+424,Dyadobacter_BM9,Burkholderia_RCH25,-6,Burkholderia_RCH25,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+656,Dyadobacter_BM9,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+881,Dyadobacter_BM9,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+206,Dyadobacter_BM9,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+431,Dyadobacter_BM9,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+660,Dyadobacter_BM9,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+885,Dyadobacter_BM9,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+210,Dyadobacter_BM9,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+435,Dyadobacter_BM9,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+659,Dyadobacter_BM9,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+884,Dyadobacter_BM9,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+209,Dyadobacter_BM9,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+434,Dyadobacter_BM9,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+650,Dyadobacter_BM9,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+875,Dyadobacter_BM9,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+200,Dyadobacter_BM9,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+425,Dyadobacter_BM9,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+653,Dyadobacter_BM9,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+878,Dyadobacter_BM9,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+203,Dyadobacter_BM9,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+428,Dyadobacter_BM9,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+647,Dyadobacter_BM9,Luteibacter_BM7,-2,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+872,Dyadobacter_BM9,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+197,Dyadobacter_BM9,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+422,Dyadobacter_BM9,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+651,Dyadobacter_BM9,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+876,Dyadobacter_BM9,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+201,Dyadobacter_BM9,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+426,Dyadobacter_BM9,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+657,Dyadobacter_BM9,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+882,Dyadobacter_BM9,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+207,Dyadobacter_BM9,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+432,Dyadobacter_BM9,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+655,Dyadobacter_BM9,Paenibacillus_E12,-2,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+880,Dyadobacter_BM9,Paenibacillus_E12,-2,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+205,Dyadobacter_BM9,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+430,Dyadobacter_BM9,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+646,Dyadobacter_BM9,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+871,Dyadobacter_BM9,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+196,Dyadobacter_BM9,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+421,Dyadobacter_BM9,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+652,Dyadobacter_BM9,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+877,Dyadobacter_BM9,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+202,Dyadobacter_BM9,Sphingobium_Z2,3,Sphingobium_Z2,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+427,Dyadobacter_BM9,Sphingobium_Z2,3,Sphingobium_Z2,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+658,Dyadobacter_BM9,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+883,Dyadobacter_BM9,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+208,Dyadobacter_BM9,Streptomyces_RCH20P,-9,Streptomyces_RCH20P,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+433,Dyadobacter_BM9,Streptomyces_RCH20P,-9,Streptomyces_RCH20P,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+648,Dyadobacter_BM9,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+873,Dyadobacter_BM9,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+198,Dyadobacter_BM9,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Dyadobacter_BM9,1/2 TSA,#NAME?,48h,Hannah
+423,Dyadobacter_BM9,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Dyadobacter_BM9,1/2 TSA,#NAME?,96h,Hannah
+519,Ensifer_sp,Bacillus_SCH24,NA,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+744,Ensifer_sp,Bacillus_SCH24,NA,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+69,Ensifer_sp,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+294,Ensifer_sp,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+514,Ensifer_sp,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+739,Ensifer_sp,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+64,Ensifer_sp,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+289,Ensifer_sp,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+521,Ensifer_sp,Cellulosimicrobium_BM1,NA,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+746,Ensifer_sp,Cellulosimicrobium_BM1,NA,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+71,Ensifer_sp,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+296,Ensifer_sp,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+525,Ensifer_sp,Chryseobacterium_SCH11,NA,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+750,Ensifer_sp,Chryseobacterium_SCH11,NA,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+75,Ensifer_sp,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+300,Ensifer_sp,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+524,Ensifer_sp,Dyadobacter_BM9,NA,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+749,Ensifer_sp,Dyadobacter_BM9,NA,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+74,Ensifer_sp,Dyadobacter_BM9,5,Dyadobacter_BM9,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+299,Ensifer_sp,Dyadobacter_BM9,5,Dyadobacter_BM9,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+515,Ensifer_sp,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+740,Ensifer_sp,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+65,Ensifer_sp,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+290,Ensifer_sp,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+518,Ensifer_sp,Exiguobacterium_RDH25,NA,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+743,Ensifer_sp,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+68,Ensifer_sp,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+293,Ensifer_sp,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+512,Ensifer_sp,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+737,Ensifer_sp,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+62,Ensifer_sp,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+287,Ensifer_sp,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+516,Ensifer_sp,Methylobacterium_RPE3,NA,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+741,Ensifer_sp,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+66,Ensifer_sp,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+291,Ensifer_sp,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+522,Ensifer_sp,Microbacterium_BM4,NA,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+747,Ensifer_sp,Microbacterium_BM4,NA,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+72,Ensifer_sp,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+297,Ensifer_sp,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+520,Ensifer_sp,Paenibacillus_E12,NA,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+745,Ensifer_sp,Paenibacillus_E12,NA,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+70,Ensifer_sp,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+295,Ensifer_sp,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+511,Ensifer_sp,Pseudomonas_putida_KT2442,1,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+736,Ensifer_sp,Pseudomonas_putida_KT2442,1,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+61,Ensifer_sp,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+286,Ensifer_sp,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+517,Ensifer_sp,Sphingobium_Z2,NA,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+742,Ensifer_sp,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+67,Ensifer_sp,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+292,Ensifer_sp,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+523,Ensifer_sp,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+748,Ensifer_sp,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+73,Ensifer_sp,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+298,Ensifer_sp,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+513,Ensifer_sp,Variovax_RPC5,NA,Variovax_RPC5,"1/2 TSA + Fe, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+738,Ensifer_sp,Variovax_RPC5,NA,Variovax_RPC5,"1/2 TSA + Fe, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+63,Ensifer_sp,Variovax_RPC5,2,Variovax_RPC5,"1/2 TSA, 48h",Ensifer_sp,1/2 TSA,#NAME?,48h,Hannah
+288,Ensifer_sp,Variovax_RPC5,2,Variovax_RPC5,"1/2 TSA, 96h",Ensifer_sp,1/2 TSA,#NAME?,96h,Hannah
+564,Exiguobacterium_RDH25,Bacillus_SCH24,-3,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+789,Exiguobacterium_RDH25,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+114,Exiguobacterium_RDH25,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+339,Exiguobacterium_RDH25,Bacillus_SCH24,-1,Bacillus_SCH24,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+559,Exiguobacterium_RDH25,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+784,Exiguobacterium_RDH25,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+109,Exiguobacterium_RDH25,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+334,Exiguobacterium_RDH25,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+566,Exiguobacterium_RDH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+791,Exiguobacterium_RDH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+116,Exiguobacterium_RDH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+341,Exiguobacterium_RDH25,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+570,Exiguobacterium_RDH25,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+795,Exiguobacterium_RDH25,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+120,Exiguobacterium_RDH25,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+345,Exiguobacterium_RDH25,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+569,Exiguobacterium_RDH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+794,Exiguobacterium_RDH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+119,Exiguobacterium_RDH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+344,Exiguobacterium_RDH25,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+560,Exiguobacterium_RDH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+785,Exiguobacterium_RDH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+110,Exiguobacterium_RDH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+335,Exiguobacterium_RDH25,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+563,Exiguobacterium_RDH25,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+788,Exiguobacterium_RDH25,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+113,Exiguobacterium_RDH25,Exiguobacterium_RDH25,-1,Exiguobacterium_RDH25,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+338,Exiguobacterium_RDH25,Exiguobacterium_RDH25,-1,Exiguobacterium_RDH25,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+557,Exiguobacterium_RDH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+782,Exiguobacterium_RDH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+107,Exiguobacterium_RDH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+332,Exiguobacterium_RDH25,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+561,Exiguobacterium_RDH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+786,Exiguobacterium_RDH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+111,Exiguobacterium_RDH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+336,Exiguobacterium_RDH25,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+567,Exiguobacterium_RDH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+792,Exiguobacterium_RDH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+117,Exiguobacterium_RDH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+342,Exiguobacterium_RDH25,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+565,Exiguobacterium_RDH25,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+790,Exiguobacterium_RDH25,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+115,Exiguobacterium_RDH25,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+340,Exiguobacterium_RDH25,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+556,Exiguobacterium_RDH25,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+781,Exiguobacterium_RDH25,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+106,Exiguobacterium_RDH25,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+331,Exiguobacterium_RDH25,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+562,Exiguobacterium_RDH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+787,Exiguobacterium_RDH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+112,Exiguobacterium_RDH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+337,Exiguobacterium_RDH25,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+568,Exiguobacterium_RDH25,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+793,Exiguobacterium_RDH25,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+118,Exiguobacterium_RDH25,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+343,Exiguobacterium_RDH25,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+558,Exiguobacterium_RDH25,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+783,Exiguobacterium_RDH25,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+108,Exiguobacterium_RDH25,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,48h,Hannah
+333,Exiguobacterium_RDH25,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Exiguobacterium_RDH25,1/2 TSA,#NAME?,96h,Hannah
+474,Luteibacter_BM7,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+699,Luteibacter_BM7,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+24,Luteibacter_BM7,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+249,Luteibacter_BM7,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+469,Luteibacter_BM7,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+694,Luteibacter_BM7,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+19,Luteibacter_BM7,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+244,Luteibacter_BM7,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+476,Luteibacter_BM7,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+701,Luteibacter_BM7,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+26,Luteibacter_BM7,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+251,Luteibacter_BM7,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+480,Luteibacter_BM7,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+705,Luteibacter_BM7,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+30,Luteibacter_BM7,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+255,Luteibacter_BM7,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+479,Luteibacter_BM7,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+704,Luteibacter_BM7,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+29,Luteibacter_BM7,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+254,Luteibacter_BM7,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+470,Luteibacter_BM7,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+695,Luteibacter_BM7,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+20,Luteibacter_BM7,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+245,Luteibacter_BM7,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+473,Luteibacter_BM7,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+698,Luteibacter_BM7,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+23,Luteibacter_BM7,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+248,Luteibacter_BM7,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+467,Luteibacter_BM7,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+692,Luteibacter_BM7,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+17,Luteibacter_BM7,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+242,Luteibacter_BM7,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+471,Luteibacter_BM7,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+696,Luteibacter_BM7,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+21,Luteibacter_BM7,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+246,Luteibacter_BM7,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+477,Luteibacter_BM7,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+702,Luteibacter_BM7,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+27,Luteibacter_BM7,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+252,Luteibacter_BM7,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+475,Luteibacter_BM7,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+700,Luteibacter_BM7,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+25,Luteibacter_BM7,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+250,Luteibacter_BM7,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+466,Luteibacter_BM7,Pseudomonas_putida_KT2442,-1,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+691,Luteibacter_BM7,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+16,Luteibacter_BM7,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+241,Luteibacter_BM7,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+472,Luteibacter_BM7,Sphingobium_Z2,NA,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+697,Luteibacter_BM7,Sphingobium_Z2,NA,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+22,Luteibacter_BM7,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+247,Luteibacter_BM7,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+478,Luteibacter_BM7,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+703,Luteibacter_BM7,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+28,Luteibacter_BM7,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+253,Luteibacter_BM7,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+468,Luteibacter_BM7,Variovax_RPC5,1,Variovax_RPC5,"1/2 TSA + Fe, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+693,Luteibacter_BM7,Variovax_RPC5,1,Variovax_RPC5,"1/2 TSA + Fe, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+18,Luteibacter_BM7,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Luteibacter_BM7,1/2 TSA,#NAME?,48h,Hannah
+243,Luteibacter_BM7,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Luteibacter_BM7,1/2 TSA,#NAME?,96h,Hannah
+534,Methylobacterium_RPE3,Bacillus_SCH24,-10,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+759,Methylobacterium_RPE3,Bacillus_SCH24,-10,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+84,Methylobacterium_RPE3,Bacillus_SCH24,-3,Bacillus_SCH24,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+309,Methylobacterium_RPE3,Bacillus_SCH24,-4,Bacillus_SCH24,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+529,Methylobacterium_RPE3,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+754,Methylobacterium_RPE3,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+79,Methylobacterium_RPE3,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+304,Methylobacterium_RPE3,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+536,Methylobacterium_RPE3,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+761,Methylobacterium_RPE3,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+86,Methylobacterium_RPE3,Cellulosimicrobium_BM1,1,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+311,Methylobacterium_RPE3,Cellulosimicrobium_BM1,1,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+540,Methylobacterium_RPE3,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+765,Methylobacterium_RPE3,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+90,Methylobacterium_RPE3,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+315,Methylobacterium_RPE3,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+539,Methylobacterium_RPE3,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+764,Methylobacterium_RPE3,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+89,Methylobacterium_RPE3,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+314,Methylobacterium_RPE3,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+530,Methylobacterium_RPE3,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+755,Methylobacterium_RPE3,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+80,Methylobacterium_RPE3,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+305,Methylobacterium_RPE3,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+533,Methylobacterium_RPE3,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+758,Methylobacterium_RPE3,Exiguobacterium_RDH25,4,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+83,Methylobacterium_RPE3,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+308,Methylobacterium_RPE3,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+527,Methylobacterium_RPE3,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+752,Methylobacterium_RPE3,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+77,Methylobacterium_RPE3,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+302,Methylobacterium_RPE3,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+531,Methylobacterium_RPE3,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+756,Methylobacterium_RPE3,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+81,Methylobacterium_RPE3,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+306,Methylobacterium_RPE3,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+537,Methylobacterium_RPE3,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+762,Methylobacterium_RPE3,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+87,Methylobacterium_RPE3,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+312,Methylobacterium_RPE3,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+535,Methylobacterium_RPE3,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+760,Methylobacterium_RPE3,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+85,Methylobacterium_RPE3,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+310,Methylobacterium_RPE3,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+526,Methylobacterium_RPE3,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+751,Methylobacterium_RPE3,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+76,Methylobacterium_RPE3,Pseudomonas_putida_KT2442,-1,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+301,Methylobacterium_RPE3,Pseudomonas_putida_KT2442,-1,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+532,Methylobacterium_RPE3,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+757,Methylobacterium_RPE3,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+82,Methylobacterium_RPE3,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+307,Methylobacterium_RPE3,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+538,Methylobacterium_RPE3,Streptomyces_RCH20P,-1,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+763,Methylobacterium_RPE3,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+88,Methylobacterium_RPE3,Streptomyces_RCH20P,-5,Streptomyces_RCH20P,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+313,Methylobacterium_RPE3,Streptomyces_RCH20P,-5,Streptomyces_RCH20P,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+528,Methylobacterium_RPE3,Variovax_RPC5,-2,Variovax_RPC5,"1/2 TSA + Fe, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+753,Methylobacterium_RPE3,Variovax_RPC5,-2,Variovax_RPC5,"1/2 TSA + Fe, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+78,Methylobacterium_RPE3,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Methylobacterium_RPE3,1/2 TSA,#NAME?,48h,Hannah
+303,Methylobacterium_RPE3,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Methylobacterium_RPE3,1/2 TSA,#NAME?,96h,Hannah
+624,Microbacterium_BM4,Bacillus_SCH24,NA,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+849,Microbacterium_BM4,Bacillus_SCH24,NA,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+174,Microbacterium_BM4,Bacillus_SCH24,-6,Bacillus_SCH24,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+399,Microbacterium_BM4,Bacillus_SCH24,-6,Bacillus_SCH24,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+619,Microbacterium_BM4,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+844,Microbacterium_BM4,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+169,Microbacterium_BM4,Burkholderia_RCH25,-9,Burkholderia_RCH25,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+394,Microbacterium_BM4,Burkholderia_RCH25,-9,Burkholderia_RCH25,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+626,Microbacterium_BM4,Cellulosimicrobium_BM1,NA,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+851,Microbacterium_BM4,Cellulosimicrobium_BM1,NA,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+176,Microbacterium_BM4,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+401,Microbacterium_BM4,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+630,Microbacterium_BM4,Chryseobacterium_SCH11,NA,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+855,Microbacterium_BM4,Chryseobacterium_SCH11,NA,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+180,Microbacterium_BM4,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+405,Microbacterium_BM4,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+629,Microbacterium_BM4,Dyadobacter_BM9,NA,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+854,Microbacterium_BM4,Dyadobacter_BM9,NA,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+179,Microbacterium_BM4,Dyadobacter_BM9,-1,Dyadobacter_BM9,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+404,Microbacterium_BM4,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+620,Microbacterium_BM4,Ensifer_sp,-2,Ensifer_sp,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+845,Microbacterium_BM4,Ensifer_sp,-2,Ensifer_sp,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+170,Microbacterium_BM4,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+395,Microbacterium_BM4,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+623,Microbacterium_BM4,Exiguobacterium_RDH25,NA,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+848,Microbacterium_BM4,Exiguobacterium_RDH25,NA,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+173,Microbacterium_BM4,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+398,Microbacterium_BM4,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+617,Microbacterium_BM4,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+842,Microbacterium_BM4,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+167,Microbacterium_BM4,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+392,Microbacterium_BM4,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+621,Microbacterium_BM4,Methylobacterium_RPE3,NA,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+846,Microbacterium_BM4,Methylobacterium_RPE3,NA,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+171,Microbacterium_BM4,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+396,Microbacterium_BM4,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+627,Microbacterium_BM4,Microbacterium_BM4,NA,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+852,Microbacterium_BM4,Microbacterium_BM4,NA,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+177,Microbacterium_BM4,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+402,Microbacterium_BM4,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+625,Microbacterium_BM4,Paenibacillus_E12,NA,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+850,Microbacterium_BM4,Paenibacillus_E12,NA,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+175,Microbacterium_BM4,Paenibacillus_E12,-4,Paenibacillus_E12,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+400,Microbacterium_BM4,Paenibacillus_E12,-4,Paenibacillus_E12,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+616,Microbacterium_BM4,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+841,Microbacterium_BM4,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+166,Microbacterium_BM4,Pseudomonas_putida_KT2442,-7,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+391,Microbacterium_BM4,Pseudomonas_putida_KT2442,-7,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+622,Microbacterium_BM4,Sphingobium_Z2,NA,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+847,Microbacterium_BM4,Sphingobium_Z2,NA,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+172,Microbacterium_BM4,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+397,Microbacterium_BM4,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+628,Microbacterium_BM4,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+853,Microbacterium_BM4,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+178,Microbacterium_BM4,Streptomyces_RCH20P,-10,Streptomyces_RCH20P,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+403,Microbacterium_BM4,Streptomyces_RCH20P,-10,Streptomyces_RCH20P,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+618,Microbacterium_BM4,Variovax_RPC5,NA,Variovax_RPC5,"1/2 TSA + Fe, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+843,Microbacterium_BM4,Variovax_RPC5,NA,Variovax_RPC5,"1/2 TSA + Fe, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+168,Microbacterium_BM4,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Microbacterium_BM4,1/2 TSA,#NAME?,48h,Hannah
+393,Microbacterium_BM4,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Microbacterium_BM4,1/2 TSA,#NAME?,96h,Hannah
+594,Paenibacillus_E12,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+819,Paenibacillus_E12,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+144,Paenibacillus_E12,Bacillus_SCH24,-1,Bacillus_SCH24,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+369,Paenibacillus_E12,Bacillus_SCH24,-1,Bacillus_SCH24,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+589,Paenibacillus_E12,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+814,Paenibacillus_E12,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+139,Paenibacillus_E12,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+364,Paenibacillus_E12,Burkholderia_RCH25,-1,Burkholderia_RCH25,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+596,Paenibacillus_E12,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+821,Paenibacillus_E12,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+146,Paenibacillus_E12,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+371,Paenibacillus_E12,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+600,Paenibacillus_E12,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+825,Paenibacillus_E12,Chryseobacterium_SCH11,-2,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+150,Paenibacillus_E12,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+375,Paenibacillus_E12,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+599,Paenibacillus_E12,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+824,Paenibacillus_E12,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+149,Paenibacillus_E12,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+374,Paenibacillus_E12,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+590,Paenibacillus_E12,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+815,Paenibacillus_E12,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+140,Paenibacillus_E12,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+365,Paenibacillus_E12,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+593,Paenibacillus_E12,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+818,Paenibacillus_E12,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+143,Paenibacillus_E12,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+368,Paenibacillus_E12,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+587,Paenibacillus_E12,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+812,Paenibacillus_E12,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+137,Paenibacillus_E12,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+362,Paenibacillus_E12,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+591,Paenibacillus_E12,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+816,Paenibacillus_E12,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+141,Paenibacillus_E12,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+366,Paenibacillus_E12,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+597,Paenibacillus_E12,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+822,Paenibacillus_E12,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+147,Paenibacillus_E12,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+372,Paenibacillus_E12,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+595,Paenibacillus_E12,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+820,Paenibacillus_E12,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+145,Paenibacillus_E12,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+370,Paenibacillus_E12,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+586,Paenibacillus_E12,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+811,Paenibacillus_E12,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+136,Paenibacillus_E12,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+361,Paenibacillus_E12,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+592,Paenibacillus_E12,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+817,Paenibacillus_E12,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+142,Paenibacillus_E12,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+367,Paenibacillus_E12,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+598,Paenibacillus_E12,Streptomyces_RCH20P,-3,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+823,Paenibacillus_E12,Streptomyces_RCH20P,-4,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+148,Paenibacillus_E12,Streptomyces_RCH20P,-5,Streptomyces_RCH20P,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+373,Paenibacillus_E12,Streptomyces_RCH20P,-6,Streptomyces_RCH20P,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+588,Paenibacillus_E12,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+813,Paenibacillus_E12,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+138,Paenibacillus_E12,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Paenibacillus_E12,1/2 TSA,#NAME?,48h,Hannah
+363,Paenibacillus_E12,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Paenibacillus_E12,1/2 TSA,#NAME?,96h,Hannah
+459,Pseudomonas_putida_KT2442,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+684,Pseudomonas_putida_KT2442,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+9,Pseudomonas_putida_KT2442,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+234,Pseudomonas_putida_KT2442,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+454,Pseudomonas_putida_KT2442,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+679,Pseudomonas_putida_KT2442,Burkholderia_RCH25,0,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+4,Pseudomonas_putida_KT2442,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+229,Pseudomonas_putida_KT2442,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+461,Pseudomonas_putida_KT2442,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+686,Pseudomonas_putida_KT2442,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+11,Pseudomonas_putida_KT2442,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+236,Pseudomonas_putida_KT2442,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+465,Pseudomonas_putida_KT2442,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+690,Pseudomonas_putida_KT2442,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+15,Pseudomonas_putida_KT2442,Chryseobacterium_SCH11,1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+240,Pseudomonas_putida_KT2442,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+464,Pseudomonas_putida_KT2442,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+689,Pseudomonas_putida_KT2442,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+14,Pseudomonas_putida_KT2442,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+239,Pseudomonas_putida_KT2442,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+455,Pseudomonas_putida_KT2442,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+680,Pseudomonas_putida_KT2442,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+5,Pseudomonas_putida_KT2442,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+230,Pseudomonas_putida_KT2442,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+458,Pseudomonas_putida_KT2442,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+683,Pseudomonas_putida_KT2442,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+8,Pseudomonas_putida_KT2442,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+233,Pseudomonas_putida_KT2442,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+452,Pseudomonas_putida_KT2442,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+677,Pseudomonas_putida_KT2442,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+2,Pseudomonas_putida_KT2442,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+227,Pseudomonas_putida_KT2442,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+456,Pseudomonas_putida_KT2442,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+681,Pseudomonas_putida_KT2442,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+6,Pseudomonas_putida_KT2442,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+231,Pseudomonas_putida_KT2442,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+462,Pseudomonas_putida_KT2442,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+687,Pseudomonas_putida_KT2442,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+12,Pseudomonas_putida_KT2442,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+237,Pseudomonas_putida_KT2442,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+460,Pseudomonas_putida_KT2442,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+685,Pseudomonas_putida_KT2442,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+10,Pseudomonas_putida_KT2442,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+235,Pseudomonas_putida_KT2442,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+451,Pseudomonas_putida_KT2442,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+676,Pseudomonas_putida_KT2442,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+1,Pseudomonas_putida_KT2442,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+226,Pseudomonas_putida_KT2442,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+457,Pseudomonas_putida_KT2442,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+682,Pseudomonas_putida_KT2442,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+7,Pseudomonas_putida_KT2442,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+232,Pseudomonas_putida_KT2442,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+463,Pseudomonas_putida_KT2442,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+688,Pseudomonas_putida_KT2442,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+13,Pseudomonas_putida_KT2442,Streptomyces_RCH20P,1,Streptomyces_RCH20P,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+238,Pseudomonas_putida_KT2442,Streptomyces_RCH20P,1,Streptomyces_RCH20P,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+453,Pseudomonas_putida_KT2442,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA + Fe, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+678,Pseudomonas_putida_KT2442,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA + Fe, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+3,Pseudomonas_putida_KT2442,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA, 48h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,48h,Hannah
+228,Pseudomonas_putida_KT2442,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA, 96h",Pseudomonas_putida_KT2442,1/2 TSA,#NAME?,96h,Hannah
+549,Sphingobium_Z2,Bacillus_SCH24,-5,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+774,Sphingobium_Z2,Bacillus_SCH24,-6,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+99,Sphingobium_Z2,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+324,Sphingobium_Z2,Bacillus_SCH24,0,Bacillus_SCH24,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+544,Sphingobium_Z2,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+769,Sphingobium_Z2,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+94,Sphingobium_Z2,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+319,Sphingobium_Z2,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+551,Sphingobium_Z2,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+776,Sphingobium_Z2,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+101,Sphingobium_Z2,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+326,Sphingobium_Z2,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+555,Sphingobium_Z2,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+780,Sphingobium_Z2,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+105,Sphingobium_Z2,Chryseobacterium_SCH11,1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+330,Sphingobium_Z2,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+554,Sphingobium_Z2,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+779,Sphingobium_Z2,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+104,Sphingobium_Z2,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+329,Sphingobium_Z2,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+545,Sphingobium_Z2,Ensifer_sp,-2,Ensifer_sp,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+770,Sphingobium_Z2,Ensifer_sp,-2,Ensifer_sp,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+95,Sphingobium_Z2,Ensifer_sp,-1,Ensifer_sp,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+320,Sphingobium_Z2,Ensifer_sp,-1,Ensifer_sp,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+548,Sphingobium_Z2,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+773,Sphingobium_Z2,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+98,Sphingobium_Z2,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+323,Sphingobium_Z2,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+542,Sphingobium_Z2,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+767,Sphingobium_Z2,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+92,Sphingobium_Z2,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+317,Sphingobium_Z2,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+546,Sphingobium_Z2,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+771,Sphingobium_Z2,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+96,Sphingobium_Z2,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+321,Sphingobium_Z2,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+552,Sphingobium_Z2,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+777,Sphingobium_Z2,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+102,Sphingobium_Z2,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+327,Sphingobium_Z2,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+550,Sphingobium_Z2,Paenibacillus_E12,-2,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+775,Sphingobium_Z2,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+100,Sphingobium_Z2,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+325,Sphingobium_Z2,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+541,Sphingobium_Z2,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+766,Sphingobium_Z2,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+91,Sphingobium_Z2,Pseudomonas_putida_KT2442,-4,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+316,Sphingobium_Z2,Pseudomonas_putida_KT2442,-4,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+547,Sphingobium_Z2,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+772,Sphingobium_Z2,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+97,Sphingobium_Z2,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+322,Sphingobium_Z2,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+553,Sphingobium_Z2,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+778,Sphingobium_Z2,Streptomyces_RCH20P,-1,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+103,Sphingobium_Z2,Streptomyces_RCH20P,-4,Streptomyces_RCH20P,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+328,Sphingobium_Z2,Streptomyces_RCH20P,-2,Streptomyces_RCH20P,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+543,Sphingobium_Z2,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+768,Sphingobium_Z2,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+93,Sphingobium_Z2,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 48h",Sphingobium_Z2,1/2 TSA,#NAME?,48h,Hannah
+318,Sphingobium_Z2,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Sphingobium_Z2,1/2 TSA,#NAME?,96h,Hannah
+639,Streptomyces_RCH20P,Bacillus_SCH24,-3,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+864,Streptomyces_RCH20P,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+189,Streptomyces_RCH20P,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+414,Streptomyces_RCH20P,Bacillus_SCH24,-2,Bacillus_SCH24,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+634,Streptomyces_RCH20P,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+859,Streptomyces_RCH20P,Burkholderia_RCH25,-4,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+184,Streptomyces_RCH20P,Burkholderia_RCH25,-5,Burkholderia_RCH25,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+409,Streptomyces_RCH20P,Burkholderia_RCH25,-5,Burkholderia_RCH25,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+641,Streptomyces_RCH20P,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+866,Streptomyces_RCH20P,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+191,Streptomyces_RCH20P,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+416,Streptomyces_RCH20P,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+645,Streptomyces_RCH20P,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+870,Streptomyces_RCH20P,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+195,Streptomyces_RCH20P,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+420,Streptomyces_RCH20P,Chryseobacterium_SCH11,-1,Chryseobacterium_SCH11,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+644,Streptomyces_RCH20P,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+869,Streptomyces_RCH20P,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+194,Streptomyces_RCH20P,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+419,Streptomyces_RCH20P,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+635,Streptomyces_RCH20P,Ensifer_sp,1,Ensifer_sp,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+860,Streptomyces_RCH20P,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+185,Streptomyces_RCH20P,Ensifer_sp,-1,Ensifer_sp,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+410,Streptomyces_RCH20P,Ensifer_sp,-1,Ensifer_sp,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+638,Streptomyces_RCH20P,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+863,Streptomyces_RCH20P,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+188,Streptomyces_RCH20P,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+413,Streptomyces_RCH20P,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+632,Streptomyces_RCH20P,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+857,Streptomyces_RCH20P,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+182,Streptomyces_RCH20P,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+407,Streptomyces_RCH20P,Luteibacter_BM7,1,Luteibacter_BM7,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+636,Streptomyces_RCH20P,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+861,Streptomyces_RCH20P,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+186,Streptomyces_RCH20P,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+411,Streptomyces_RCH20P,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+642,Streptomyces_RCH20P,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+867,Streptomyces_RCH20P,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+192,Streptomyces_RCH20P,Microbacterium_BM4,1,Microbacterium_BM4,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+417,Streptomyces_RCH20P,Microbacterium_BM4,1,Microbacterium_BM4,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+640,Streptomyces_RCH20P,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+865,Streptomyces_RCH20P,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+190,Streptomyces_RCH20P,Paenibacillus_E12,0,Paenibacillus_E12,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+415,Streptomyces_RCH20P,Paenibacillus_E12,1,Paenibacillus_E12,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+631,Streptomyces_RCH20P,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+856,Streptomyces_RCH20P,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+181,Streptomyces_RCH20P,Pseudomonas_putida_KT2442,-1,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+406,Streptomyces_RCH20P,Pseudomonas_putida_KT2442,-1,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+637,Streptomyces_RCH20P,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+862,Streptomyces_RCH20P,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+187,Streptomyces_RCH20P,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+412,Streptomyces_RCH20P,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+643,Streptomyces_RCH20P,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+868,Streptomyces_RCH20P,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+193,Streptomyces_RCH20P,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+418,Streptomyces_RCH20P,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+633,Streptomyces_RCH20P,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+858,Streptomyces_RCH20P,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+183,Streptomyces_RCH20P,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA, 48h",Streptomyces_RCH20P,1/2 TSA,#NAME?,48h,Hannah
+408,Streptomyces_RCH20P,Variovax_RPC5,-1,Variovax_RPC5,"1/2 TSA, 96h",Streptomyces_RCH20P,1/2 TSA,#NAME?,96h,Hannah
+489,Variovax_RPC5,Bacillus_SCH24,-1,Bacillus_SCH24,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+714,Variovax_RPC5,Bacillus_SCH24,-6,Bacillus_SCH24,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+39,Variovax_RPC5,Bacillus_SCH24,-4,Bacillus_SCH24,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+264,Variovax_RPC5,Bacillus_SCH24,-4,Bacillus_SCH24,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+484,Variovax_RPC5,Burkholderia_RCH25,-2,Burkholderia_RCH25,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+709,Variovax_RPC5,Burkholderia_RCH25,-3,Burkholderia_RCH25,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+34,Variovax_RPC5,Burkholderia_RCH25,-5,Burkholderia_RCH25,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+259,Variovax_RPC5,Burkholderia_RCH25,-5,Burkholderia_RCH25,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+491,Variovax_RPC5,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+716,Variovax_RPC5,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+41,Variovax_RPC5,Cellulosimicrobium_BM1,-1,Cellulosimicrobium_BM1,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+266,Variovax_RPC5,Cellulosimicrobium_BM1,0,Cellulosimicrobium_BM1,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+495,Variovax_RPC5,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+720,Variovax_RPC5,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+45,Variovax_RPC5,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+270,Variovax_RPC5,Chryseobacterium_SCH11,0,Chryseobacterium_SCH11,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+494,Variovax_RPC5,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+719,Variovax_RPC5,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+44,Variovax_RPC5,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+269,Variovax_RPC5,Dyadobacter_BM9,0,Dyadobacter_BM9,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+485,Variovax_RPC5,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+710,Variovax_RPC5,Ensifer_sp,0,Ensifer_sp,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+35,Variovax_RPC5,Ensifer_sp,-1,Ensifer_sp,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+260,Variovax_RPC5,Ensifer_sp,0,Ensifer_sp,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+488,Variovax_RPC5,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+713,Variovax_RPC5,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+38,Variovax_RPC5,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+263,Variovax_RPC5,Exiguobacterium_RDH25,0,Exiguobacterium_RDH25,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+482,Variovax_RPC5,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+707,Variovax_RPC5,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+32,Variovax_RPC5,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+257,Variovax_RPC5,Luteibacter_BM7,0,Luteibacter_BM7,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+486,Variovax_RPC5,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+711,Variovax_RPC5,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+36,Variovax_RPC5,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+261,Variovax_RPC5,Methylobacterium_RPE3,0,Methylobacterium_RPE3,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+492,Variovax_RPC5,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+717,Variovax_RPC5,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+42,Variovax_RPC5,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+267,Variovax_RPC5,Microbacterium_BM4,0,Microbacterium_BM4,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+490,Variovax_RPC5,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+715,Variovax_RPC5,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+40,Variovax_RPC5,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+265,Variovax_RPC5,Paenibacillus_E12,-1,Paenibacillus_E12,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+481,Variovax_RPC5,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+706,Variovax_RPC5,Pseudomonas_putida_KT2442,0,Pseudomonas_putida_KT2442,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+31,Variovax_RPC5,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+256,Variovax_RPC5,Pseudomonas_putida_KT2442,-2,Pseudomonas_putida_KT2442,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+487,Variovax_RPC5,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+712,Variovax_RPC5,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+37,Variovax_RPC5,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+262,Variovax_RPC5,Sphingobium_Z2,0,Sphingobium_Z2,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+493,Variovax_RPC5,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+718,Variovax_RPC5,Streptomyces_RCH20P,NA,Streptomyces_RCH20P,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+43,Variovax_RPC5,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+268,Variovax_RPC5,Streptomyces_RCH20P,0,Streptomyces_RCH20P,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+483,Variovax_RPC5,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+708,Variovax_RPC5,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA + Fe, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah
+33,Variovax_RPC5,Variovax_RPC5,1,Variovax_RPC5,"1/2 TSA, 48h",Variovax_RPC5,1/2 TSA,#NAME?,48h,Hannah
+258,Variovax_RPC5,Variovax_RPC5,0,Variovax_RPC5,"1/2 TSA, 96h",Variovax_RPC5,1/2 TSA,#NAME?,96h,Hannah

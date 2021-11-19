@@ -6,7 +6,7 @@ library(tidyverse)
 
 
 # R2A data 48h 
-R2A_48h_abbrev <- read.csv("Data_csvs/R2A_Rep1_48h_15strains.csv", header = TRUE)
+R2A_48h_abbrev <- read.csv("Data_csvs/R2A_Rep1_48h_15strains_SH9-BM23names.csv", header = TRUE)
 R2A_48h_abbrev$Strain_ID <- as.character(R2A_48h_abbrev$Strain_ID)
 R2A_48h_abbrev_pivot <- pivot_longer(R2A_48h_abbrev, c(2:16), values_drop_na = FALSE)
 R2A_48h_abbrev_pivot$Lawn <- as.factor(R2A_48h_abbrev_pivot$Strain_ID)
@@ -20,7 +20,7 @@ Time48h <- rep("48h", 225)
 R2A_48h_abbrev_pivot$Time <- Time48h
 
 # R2A data 96h 
-R2A_96h_abbrev <- read.csv("Data_csvs/R2A_Rep1_96h-15strains.csv", header = TRUE)
+R2A_96h_abbrev <- read.csv("Data_csvs/R2A_Rep1_96h-15strains-GenusNoSpeciesID.csv", header = TRUE)
 R2A_96h_abbrev$Strain_ID <- as.character(R2A_96h_abbrev$Strain_ID)
 R2A_96h_abbrev_pivot <- pivot_longer(R2A_96h_abbrev, c(2:16), values_drop_na = FALSE)
 R2A_96h_abbrev_pivot$Lawn <- as.factor(R2A_96h_abbrev_pivot$Strain_ID)
@@ -36,7 +36,7 @@ R2A_96h_abbrev_pivot$Time <- Time96h
 
 
 # SE-R2A data 48h 
-SE_R2A_48h_abbrev <- read.csv("Data_csvs/SE-R2A-48h-names.csv", header = TRUE)
+SE_R2A_48h_abbrev <- read.csv("Data_csvs/SE-R2A-48h-GenusNoSpeciesID.csv", header = TRUE)
 SE_R2A_48h_abbrev$Strain_ID <- as.character(SE_R2A_48h_abbrev$Strain_ID)
 SER2A_48h_abbrev_pivot <- pivot_longer(SE_R2A_48h_abbrev, c(2:16), values_drop_na = FALSE)
 SER2A_48h_abbrev_pivot$Lawn <- as.factor(SER2A_48h_abbrev_pivot$Strain_ID)
@@ -50,7 +50,7 @@ Time48h <- rep("48h", 225)
 SER2A_48h_abbrev_pivot$Time <- Time48h
 
 # SE-R2A data 96h 
-SE_R2A_96h_abbrev <- read.csv("Data_csvs/SE-R2A-96h.csv", header = TRUE)
+SE_R2A_96h_abbrev <- read.csv("Data_csvs/SE-R2A-96h-GenusNoSpecies.csv", header = TRUE)
 SE_R2A_96h_abbrev$Strain_ID <- as.character(SE_R2A_96h_abbrev$Strain_ID)
 SER2A_96h_abbrev_pivot <- pivot_longer(SE_R2A_96h_abbrev, c(2:16), values_drop_na = FALSE)
 SER2A_96h_abbrev_pivot$Lawn <- as.factor(SER2A_96h_abbrev_pivot$Strain_ID)
@@ -212,6 +212,12 @@ R2AFe96_pivot$Time <- Time96h_2
 
 R2A_Fe_48and96 <- rbind(R2AFe96_pivot, R2A96_pivot, R2AFe48_pivot, R2A48_pivot)
 
+
+SEandFeandR2A_ALL <- rbind(SER2A_48h_abbrev_pivot, R2A_48h_abbrev_pivot,
+                           SER2A_96h_abbrev_pivot, R2A_96h_abbrev_pivot,
+                           R2AFe48_pivot, R2AFe96_pivot)
+
+
 # COlor code the strains by their phyla!
 # darkgreen = G-proteobacteria    darkseagreen4 = B-proteobacteria    
 # olivedrab = A-proteobacteria    purple4 = Bacteroidetes    
@@ -223,7 +229,7 @@ strain_name_colors_abbrev2 <- c("darkgreen", "darkseagreen4", "darkseagreen4", "
                                "purple4", "darkgoldenrod2", "darkgoldenrod2", "darkgoldenrod2", "maroon",
                                "maroon", "maroon")
 
-ggplot(data = R2A_Fe_48and96, aes(x=factor(Spot, level = strain_order_names),
+ggplot(data = SEandFeandR2A_ALL, aes(x=factor(Spot, level = strain_order_names),
                                       y=factor(Lawn, level =strain_order_names), fill=value) ) + 
   facet_grid(Time ~ Media, space = "free", scales = "free") +
   geom_tile()  + xlab('Spot, AKA "Producer"') + ylab('Lawn, AKA "Reciever"') +
